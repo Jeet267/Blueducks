@@ -1,0 +1,9 @@
+@media screen and (max-width: 621px){
+    .main{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+/* em,rem, %, vh,vw--- for responsive  */
