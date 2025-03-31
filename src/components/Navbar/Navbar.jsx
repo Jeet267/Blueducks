@@ -50,10 +50,7 @@ const Navbar = () => {
         <div className="search-container">
           <input type="text" className="search-input" placeholder="Search" />
 
-            <img
-              src="https://www.starbucks.in/assets/icon/search.svg"
-              alt="Search"
-            />
+           
 
         </div>
 
